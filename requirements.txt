@@ -1,0 +1,4 @@
+requests
+isbnlib
+habanero
+python-docx

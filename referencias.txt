@@ -1,0 +1,11 @@
+Silva, João; Santos, Maria. Introdução à Programação. Editora Exemplo, 2020.
+https://doi.org/10.48075/aoristo.v6i1.31567
+9780132350884
+Miller, Arthur. The Crucible: A Play in Four Acts. New York: Viking Penguin, 1953.
+10.5281/zenodo.5829466
+Coelho, Paulo. O Alquimista. Editora Planeta, 1988.
+Smith, John. Advanced Mathematics. Cambridge University Press, 2015.
+10.1109/5.771073
+9781449355739
+Adams, Douglas. The Hitchhiker's Guide to the Galaxy. Pan Books, 1979.
+Menezes, Alfredo; Souza, Carla. Machine Learning: Teoria e Prática. Editora Ciência Moderna, 2022.
