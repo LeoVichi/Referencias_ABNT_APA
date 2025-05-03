@@ -10,7 +10,10 @@ from docx.oxml.ns import qn
 from datetime import datetime
 
 # Configura a localidade para português do Brasil, o que afeta a formatação de datas.
-locale.setlocale(locale.LC_TIME, 'pt_BR.utf8')
+try:
+    locale.setlocale(locale.LC_TIME, 'pt_BR.UTF-8')
+except locale.Error:
+    print("⚠️ Locale pt_BR.UTF-8 não disponível. Usando o padrão.")
 
 def set_document_styles(doc, lang):
     # Configura as margens do documento
