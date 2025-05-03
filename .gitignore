@@ -1,0 +1,20 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos de saída
+*.docx
+
+# Cache e metadados Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+error_log.txt
