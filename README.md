@@ -14,7 +14,7 @@ Este projeto Python processa e formata referências bibliográficas nos estilos 
 
    ```bash
    git clone https://github.com/LeoVichi/Referencias_ABNT_APA.git
-   cd reference-formatter
+   cd Referencias_ABNT_APA
    ```
 
 2. **Instale as dependências:**
