@@ -1,4 +1,4 @@
-requests
-isbnlib
-habanero
-python-docx
+python-docx==0.8.11
+isbnlib==3.10.12
+habanero==1.2.3
+requests==2.31.0

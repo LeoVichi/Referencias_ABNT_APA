@@ -1,6 +1,12 @@
-# Gerador de Referências em ABNT e APA
+# Gerador de Referências em ABNT e APA — v2.0
 
-Este projeto Python processa e formata referências bibliográficas nos estilos ABNT e APA 7ª edição. Ele é capaz de lidar com referências manuais, bem como buscar dados usando DOI e ISBN. O código precisa de ajustes, pois ainda não está reconhecendo alguns links DOI e alguns ISBNs.
+> Versão 2.0: Refatoração completa com suporte expandido a DOI, ISBN, logging e normalização de títulos.
+
+Este projeto Python processa e formata referências bibliográficas nos estilos ABNT e APA 7ª edição. Ele é capaz de lidar com referências manuais, bem como buscar dados usando DOI e ISBN.
+
+A versão 2.0 traz melhorias significativas em estabilidade, estrutura e qualidade dos dados extraídos.
+
+---
 
 ## Funcionalidades
 
@@ -41,8 +47,16 @@ Este projeto Python processa e formata referências bibliográficas nos estilos 
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.8
 - Bibliotecas listadas no `requirements.txt`
+
+## Desenvolvimento
+
+- Todas as versões estão disponíveis via tags Git:
+  - [`v1.0.0`](https://github.com/LeoVichi/Referencias_ABNT_APA/releases/tag/v1.0.0)
+  - [`v2.0.0`](https://github.com/LeoVichi/Referencias_ABNT_APA/releases/tag/v2.0.0)
+
+Consulte o arquivo [`CHANGELOG.md`](CHANGELOG.md) para o histórico completo de alterações.
 
 ## Licença
 
